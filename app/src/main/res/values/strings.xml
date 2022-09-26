@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ControlProy</string>
+
+    <string-array name="Metodologia">
+        <item>Waterproof</item>
+        <item>Scrum</item>
+        <item>XP</item>
+        <item>Lean</item>
+        <item>Kanban</item>
+
+    </string-array>
+
+</resources>
